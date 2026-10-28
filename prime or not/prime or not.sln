@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prime or not", "prime or not\prime or not.csproj", "{DBFBDED1-08F5-4734-B6B6-B4C7A9D69ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFBDED1-08F5-4734-B6B6-B4C7A9D69ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFBDED1-08F5-4734-B6B6-B4C7A9D69ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFBDED1-08F5-4734-B6B6-B4C7A9D69ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFBDED1-08F5-4734-B6B6-B4C7A9D69ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B51A33-366A-4444-AB7A-73168538FBBC}
+	EndGlobalSection
+EndGlobal

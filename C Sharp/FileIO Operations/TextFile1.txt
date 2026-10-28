@@ -1,2 +1,0 @@
-Provides information about a specific culture (called a locale for unmanaged code development).
-Sankalp Kaithwas
